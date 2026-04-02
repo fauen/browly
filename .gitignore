@@ -1,0 +1,37 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+.env
+
+# PyInstaller
+build/
+dist/
+*.spec
+
+# macOS
+.DS_Store
+
+# IDE
+.idea/
+.vscode/
+
+# Python package
+*.egg-info/
+
+# Config files
+.browly-config.json
+
+# Temporary files
+~/
+*.swp
+*.bak
+
+# PySide6 cache
+__pycache__/
+
+# Packaging
+packaging/
